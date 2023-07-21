@@ -1,0 +1,23 @@
+{
+  "description": "夜明けに私はピンと高まるわ、フフ~ 自由な予測取引市場を作ってるんだよ！でもね、ちょっとだけ、もっと血を必要としているの...うーん、なんて緊張感なのかしらね~?", 
+  "external_url": "https://github.com/higherdawn", 
+  "image": "https://github.com/higherdawn.png", 
+  "name": "Higherdawn #1",
+  "attributes": [
+     {
+      "display_type": "boost_number", 
+      "trait_type": "Aqua Power", 
+      "value": 40
+    }, 
+    {
+      "display_type": "boost_percentage", 
+      "trait_type": "Stamina Increase", 
+      "value": 10
+    }, 
+    {
+      "display_type": "number", 
+      "trait_type": "Generation", 
+      "value": 2
+    }
+  ]
+}
